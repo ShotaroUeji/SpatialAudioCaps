@@ -8,7 +8,7 @@ import os
 from scipy.signal import fftconvolve
 
 # === 入出力設定 ===
-INPUT_MONO_PATH = "example_mono.wav"
+INPUT_MONO_PATH = "Ambulance siren passing by with Doppler effect.wav"
 OUTPUT_DIR = "outputs"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
